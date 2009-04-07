@@ -1,4 +1,9 @@
-"Converts part of BBCode to wiki formatting, using regular expressions."
+"""
+Converts part of BBCode to html formatting, using regular expressions.
+
+Nested tags don't work.
+
+"""
 
 
 import re
