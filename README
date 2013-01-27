@@ -4,3 +4,7 @@ Will McGugan wrote a bbcode to html converter in Python
 
 http://www.willmcgugan.com/2007/03/10/bbcode-python-module/
 
+
+Disclamer: Parsing [x]html with regular expressions is bad (doesn't really work):
+http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
+
